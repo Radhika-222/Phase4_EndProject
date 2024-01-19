@@ -1,0 +1,6 @@
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\bin\Debug\ProjectLib.dll
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\bin\Debug\ProjectLib.pdb
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\obj\Debug\ProjectLib.csproj.AssemblyReference.cache
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\obj\Debug\ProjectLib.csproj.CoreCompileInputs.cache
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\obj\Debug\ProjectLib.dll
+C:\Phase4 Projects\PhaseEndProject\Phase4EndProject_Joe'sPizza\ProjectLib\obj\Debug\ProjectLib.pdb
